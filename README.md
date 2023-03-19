@@ -1,4 +1,4 @@
-# verbosCambios
+# VerbosCambios
 Testing react native web for learning some spanish.
 
 https://larsattacks.co.uk/verbos/
